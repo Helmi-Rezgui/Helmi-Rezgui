@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Helmi-Rezgui/Helmi-Rezgui.git](https://github.com/Helmi-Rezgui.git)
+- 👨‍💻 All of my projects are available at https://github.com/Helmi-Rezgui.git
 
 - 💬 Ask me about **Java script**
 
