@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helmi</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Nest JS**
 
 - 👨‍💻 All of my projects are available at https://github.com/Helmi-Rezgui.git
 
