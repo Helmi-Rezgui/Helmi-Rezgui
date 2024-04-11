@@ -33,5 +33,8 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=helmi-rezgui&show_icons=true&locale=en" alt="helmi-rezgui" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helmi-rezgui&show_icons=true&locale=en&theme=dark" alt="helmi-rezgui's GitHub Stats" />
+</p>
+
 
