@@ -33,4 +33,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmi-rezgui&show_icons=true&locale=en&layout=compact" alt="helmi-rezgui" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=helmi-rezgui&show_icons=true&locale=en" alt="helmi-rezgui" /></p>
+
