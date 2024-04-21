@@ -38,6 +38,8 @@
 </p>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Helmi-Rezgui&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Helmi-Rezgui&theme=dark" alt="GitHub Streak">
+  </a>
 </div>
 
