@@ -36,5 +36,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helmi-rezgui&show_icons=true&locale=en&theme=dark" alt="helmi-rezgui's GitHub Stats" />
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Helmi-Rezgui&theme=dark)](https://git.io/streak-stats)
 
