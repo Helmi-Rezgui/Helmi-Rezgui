@@ -3,6 +3,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Helmi-Rezgui)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 👨‍💻 I’m currently working on my **Problem Solving** skills
+
 - 🌱 I’m currently learning **Nest JS**
 
 - 👨‍💻 All of my projects are available at https://github.com/Helmi-Rezgui.git
