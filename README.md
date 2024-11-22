@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java script**
 
-- 📫 How to reach me **helmiielrezgui@gmail.com**
+- 📫 How to reach me **helmiielrezgui@gmail.com** | **https://www.linkedin.com/in/helmi-rezgui/**
 
 - ⚡ Fun fact **I Have a Limitless Potential**
 
